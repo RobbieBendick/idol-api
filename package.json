@@ -1,0 +1,32 @@
+{
+  "name": "idol-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "express-session": "^1.17.1",
+    "get-graphql-schema": "^2.1.2",
+    "graphql": "^15.5.0",
+    "graphql-request": "^3.4.0",
+    "mongoose": "^5.11.15",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.7",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^6.1.0",
+    "redux": "^4.0.5",
+    "request": "^2.88.2",
+    "simple-oauth2": "^4.2.0"
+  }
+}
